@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416334232",
+    "firebase_url": "https://giracity-80ba4-default-rtdb.firebaseio.com",
+    "project_id": "giracity-80ba4",
+    "storage_bucket": "giracity-80ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416334232:android:8728dbf0c2cc93f811ebed",
+        "android_client_info": {
+          "package_name": "com.guappizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416334232-3jc0eaptv7pvj77n3in1o593jbbnu59d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdN41VmJDH0yPbFBsYvAvwCaediGzwATs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416334232-3jc0eaptv7pvj77n3in1o593jbbnu59d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
